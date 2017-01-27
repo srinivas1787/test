@@ -7,7 +7,7 @@ public class Widget {
 
 	private boolean enabled;
 
-	/**
+	/** Test file
 	 * Create new enabled widget
 	 */
 	public Widget() {
